@@ -1,0 +1,24 @@
+{
+  "name": "douban_movie_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p15232755374/douban.git"
+  },
+  "author": "lijiaming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p15232755374/douban/issues"
+  },
+  "homepage": "https://github.com/p15232755374/douban#readme",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
